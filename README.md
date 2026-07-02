@@ -1,2 +1,2 @@
 ﻿# DSA Solutions
-Leetcode solutions solved in python
+Leetcode solutions solved in python, java
